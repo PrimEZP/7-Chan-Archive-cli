@@ -1,0 +1,5 @@
+# Downloaded threads stay on your machine
+archives/
+
+# Interrupted downloads
+*.part
